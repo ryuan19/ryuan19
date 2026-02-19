@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Roy (ryuan19)
+## Hello
+
 <!--
 **ryuan19/ryuan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
